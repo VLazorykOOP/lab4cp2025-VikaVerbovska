@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2460E7B-BA70-455D-9997-63D5458B2F24}|ComputerSalesApp.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u043B\u0456\u0442\u043D\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\computersalesapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2460E7B-BA70-455D-9997-63D5458B2F24}|ComputerSalesApp.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2460E7B-BA70-455D-9997-63D5458B2F24}|ComputerSalesApp.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u043B\u0456\u0442\u043D\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\computersalesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2460E7B-BA70-455D-9997-63D5458B2F24}|ComputerSalesApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2460E7B-BA70-455D-9997-63D5458B2F24}|ComputerSalesApp.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u043B\u0456\u0442\u043D\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\computersalesapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2460E7B-BA70-455D-9997-63D5458B2F24}|ComputerSalesApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2460E7B-BA70-455D-9997-63D5458B2F24}|ComputerSalesApp.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u043B\u0456\u0442\u043D\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\computersalesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2460E7B-BA70-455D-9997-63D5458B2F24}|ComputerSalesApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv3MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:20:10.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:11:31.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAADwvy4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:17:42.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab4 visual c#\\ComputerSalesApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAswGsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:17:23.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
